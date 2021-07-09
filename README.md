@@ -8,12 +8,12 @@ This GSC patch is intended to reduce needless restarts when practicing BO2 solo 
 ## Features
 - 100% strafe and backspeed
 - 1st box setup on all maps
-- Force box to spawn in cafeteria on mob of the dead
-- Force box to spawn at double tap on town
-- Force box to spawn at gen 2 on origins
-- Box weapons will always be given in the same order
-- Box will revert to normal after the forced weapons have been received or round 10 is passed
-- On origins box will revert on round 30 instead of 10 (can do setup with mk2 + monkeys and get WM later)
+- Box always spawns in cafeteria on mob of the dead
+- Box always spawns at double tap on town
+- Box always spawns at gen 2 on origins
+- Forced box weapons will always be given in the same order
+- Box will revert to normal if all forced weapons have been received or round 10 is passed
+- Box will revert after round 30 on origins (can do setup with mk2 + monkeys and get war machine later)
 
 ## Forced box weapons
 | Map | Weapons |
