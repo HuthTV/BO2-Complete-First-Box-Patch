@@ -48,7 +48,7 @@ showConnectMessage()
 {
 	self endon( "disconnect" );
 	flag_wait("initial_blackscreen_passed");
-	self iprintln("^4Huth's ^7Complete Firstbox Patch");
+	self iprintln("^4github.com/HuthTV ^7- 1st box patch");
 }
 
 onplayerspawned()
