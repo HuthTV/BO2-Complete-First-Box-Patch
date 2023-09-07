@@ -1,9 +1,9 @@
-# BO2 First Box Patch
-This GSC patch is intended to reduce needless restarts when practicing BO2 solo highrounds and speedruns. It provides a first box setup on every map and forces the starting box location on relevant maps.
+# Script obsolete
+Recommend using Zi0's B2OP script https://github.com/Zi0MIX/T6-B2OP-PATCH
 
-## Downloads
-- [Patch w/ timer](https://github.com/HuthTV/BO2-Complete-First-Box-Patch/releases/download/1.0/huth_first_box_timer.gsc)
-- [Patch w/o timer](https://github.com/HuthTV/BO2-Complete-First-Box-Patch/releases/download/1.0/huth_first_box_notimer.gsc)
+
+## BO2 First Box Patch
+This GSC patch is intended to reduce needless restarts when practicing BO2 solo highrounds and speedruns. It provides a first box setup on every map and forces the starting box location on relevant maps.
 
 ## Features
 - 100% strafe and backspeed
